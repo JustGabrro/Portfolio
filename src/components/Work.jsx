@@ -27,7 +27,7 @@ const works = [
     imgSrc: '/images/project-3.jpg',
     title: 'Weather app',
     tags: ['Development', 'API'],
-    projectLink: 'https://weather-tan-six-14.vercel.app/'
+    projectLink: 'https://weather-app-six-kappa-43.vercel.app/'
   }
 ];
 
