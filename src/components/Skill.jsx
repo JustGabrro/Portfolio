@@ -17,9 +17,9 @@ const skillItem = [
     desc: 'Design tool'
   },
   {
-    imgSrc: '/images/css3.svg',
-    label: 'CSS',
-    desc: 'User Interface'
+    imgSrc: '/images/mysql.svg',
+    label: 'MySQL',
+    desc: 'Relational database'
   },
   {
     imgSrc: '/images/javascript.svg',

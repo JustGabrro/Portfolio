@@ -1,5 +1,5 @@
 /**
- * @copyright 2024 gabriel
+ * @copyright Renewed 2025 gabriel
  * @license Apache-2.0
  */
 
@@ -11,7 +11,7 @@ const aboutItems = [
   },
   {
     label: 'Years of experience',
-    number: 1
+    number: 2
   }
 ];
 
@@ -26,7 +26,7 @@ const About = () => {
 
         <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
           <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-            Welcome. I&apos;m Gabriel Jakhveladze, a skilled web developer passionate about creating visually appealing and highly functional websites. By blending creativity with technical expertise, I turn your ideas into digital masterpieces that stand out in both design and performance.
+            Welcome. I&apos;m Gabriel Jakhveladze, a full-stack web developer with expertise in both front-end and back-end technologies. I deliver high-quality, data-driven solutions tailored to client needs, combining technical skill with a passion for innovation. Let’s work together to turn your ideas into impactful digital experiences.
           </p>
 
           <div className="flex flex-wrap items-center gap-4 md:gap-7">

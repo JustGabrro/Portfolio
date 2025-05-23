@@ -12,23 +12,23 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
+    imgSrc: '/images/project-3.jpg',
+    title: 'Partly - AutoParts App',
+    tags: ['Fully-Responsive', 'API', "Figma", "Development", "Admin-panel"],
+    projectLink: 'https://partly-auto-parts.vercel.app/'
+  },
+  {
     imgSrc: '/images/project-1.jpg',
     title: 'GOA - Academy app',
     tags: ['JS', 'Figma', 'Development'],
-    projectLink: 'https://goa-academy-app.vercel.app/'
+    projectLink: 'https://goal-oriented-academy-mu.vercel.app/'
   },
   {
     imgSrc: '/images/project-2.jpg',
-    title: 'Free stock photo app',
+    title: 'Free Stock Photo App',
     tags: ['API', 'SPA'],
     projectLink: 'https://photo-stocks-eta.vercel.app/'
   },
-  {
-    imgSrc: '/images/project-3.jpg',
-    title: 'Weather app',
-    tags: ['Development', 'API'],
-    projectLink: 'https://weather-app-six-kappa-43.vercel.app/'
-  }
 ];
 
 

@@ -27,37 +27,37 @@ import ReviewCard from "./ReviewCard";
 const reviews = [
   {
     content: 'Exceptional web development! Delivered a seamless, responsive site with clean code and great UX.',
-    name: 'Nino',
+    name: 'Customer 1',
     imgSrc: '/images/people-1.jpg',
     company: 'PixelForge'
   },
   {
     content: 'Impressive work! Fast loading times, intuitive design, and flawless backend integration. Highly recommend.',
-    name: 'Data',
+    name: 'Customer 2',
     imgSrc: '/images/people-2.jpg',
     company: 'NexaWave'
   },
   {
     content: 'Outstanding developer! Built a robust site with perfect functionality. Efficient and detail-oriented.',
-    name: 'Vano',
+    name: 'Customer 3',
     imgSrc: '/images/people-3.jpg',
     company: 'CodeCraft'
   },
   {
     content: 'Creative and skilled! Produced a modern, user-friendly site that exceeded expectations. Great communication.',
-    name: 'Nika',
+    name: 'Customer 4',
     imgSrc: '/images/people-4.jpg',
     company: 'BrightWeb'
   },
   {
     content: 'Professional work! Delivered on time, with a polished design and smooth user experience. Top-notch developer.',
-    name: 'Ani',
+    name: 'Customer 5',
     imgSrc: '/images/people-5.jpg',
     company: 'TechMosaic'
   },
   {
     content: 'Excellent project execution! High-quality code, responsive design, and exceptional problem-solving skills.',
-    name: 'Saba',
+    name: 'Customer 6',
     imgSrc: '/images/people-6.jpg',
     company: 'Skyline Digital'
   }
