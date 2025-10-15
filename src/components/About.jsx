@@ -26,7 +26,7 @@ const About = () => {
 
         <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
           <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-            Welcome. I&apos;m Gabriel Jakhveladze, a full-stack web developer with expertise in both front-end and back-end technologies. I deliver high-quality, data-driven solutions tailored to client needs, combining technical skill with a passion for innovation. Let’s work together to turn your ideas into impactful digital experiences.
+            Welcome. I&apos;m Gabriel Jakhveladze, Motivated and detail-oriented student with growing expertise in C#, Java, and Python for backend development, database management, and software architecture. Experienced in building both client-facing (frontend) and server-side solutions using C#, JavaScript, and MS SQL, applying strong object-oriented programming principles. Passionate about writing clean, maintainable code, designing scalable systems, and continuously learning enterprise-grade development practices. Also skilled in frontend technologies with a solid understanding of responsive design and user experience. Proven teaching and mentoring abilities gained through experience as a programming lecturer.
           </p>
 
           <div className="flex flex-wrap items-center gap-4 md:gap-7">

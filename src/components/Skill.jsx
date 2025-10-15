@@ -12,9 +12,9 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
   {
-    imgSrc: '/images/figma.svg',
-    label: 'Figma',
-    desc: 'Design tool'
+    imgSrc: '/images/csharp.svg',
+    label: 'C#',
+    desc: 'Development tool'
   },
   {
     imgSrc: '/images/mysql.svg',
@@ -32,9 +32,9 @@ const skillItem = [
     desc: 'Web Server'
   },
   {
-    imgSrc: '/images/expressjs.svg',
-    label: 'ExpressJS',
-    desc: 'Node Framework'
+    imgSrc: '/images/java.svg',
+    label: 'Java',
+    desc: 'Development tool'
   },
   {
     imgSrc: '/images/mongodb.svg',
@@ -47,9 +47,9 @@ const skillItem = [
     desc: 'Framework'
   },
   {
-    imgSrc: '/images/tailwindcss.svg',
-    label: 'TailwindCSS',
-    desc: 'User Interface'
+    imgSrc: '/images/python.svg',
+    label: 'Python',
+    desc: 'Development tool'
   },
 ];
 
